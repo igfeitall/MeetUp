@@ -1,2 +1,4 @@
 # MeetUp
-API Rest desenvolvidade em Node.js para estudo
+O desafio proposto pelo curso ainda em **desenvolvimento**.
+
+Se trata de uma *API REST* em Node.js.
